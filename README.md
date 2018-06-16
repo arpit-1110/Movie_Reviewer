@@ -1,0 +1,2 @@
+# Movie_Reviewer
+A machine learning model which gives stars to movies automatically based on your review. Apart from the machine learning model it uses certain other heuristics to develop a good model for giving stars to movies. Run the python script reviewer.py to test the model. The general uncertainty of what the stars you might give and what the machine gives is plus minus 1, but in rare cases it might show uncertainty up to plus minus 4. I am working on improving the heuristics to decrease these rare chances as well.
